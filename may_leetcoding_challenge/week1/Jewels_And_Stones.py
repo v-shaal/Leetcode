@@ -4,11 +4,7 @@
  https://leetcode.com/problems/jewels-and-stones/description/
 
  algorithms
- Easy (84.22%)
- Likes:    1944
- Dislikes: 343
- Total Accepted:    459.8K
- Total Submissions: 536.5K
+
  Testcase Example:  '"aA"\n"aAAbbbb"'
 
  You're given strings J representing the types of stones that are jewels, and
@@ -32,7 +28,6 @@
  S and J will consist of letters and have length at most 50.
  The characters in J are distinct.
  '''
-
 
 class Solution(object):
     def numJewelsInStones(self, J, S):
