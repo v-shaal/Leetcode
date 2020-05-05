@@ -3,12 +3,7 @@
 
 https://leetcode.com/problems/number-complement/description/
 
-algorithms
-Easy (62.99%)
-Likes:    798
-Dislikes: 80
-Total Accepted:    169.4K
-Total Submissions: 261.9K
+
 Testcase Example:  '5'
 
 Given a positive integer, output its complement number. The complement

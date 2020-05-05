@@ -3,14 +3,6 @@
 
  https://leetcode.com/problems/ransom-note/description/
 
- algorithms
- Easy (51.18%)
- Likes:    558
- Dislikes: 189
- Total Accepted:    201.3K
- Total Submissions: 377.3K
- Testcase Example:  '"a"
-                    "b"'
 
  
  Given an arbitrary ransom note string and another string containing letters
