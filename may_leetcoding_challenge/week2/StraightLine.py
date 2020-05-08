@@ -31,12 +31,11 @@ class Solution(object):
         :type coordinates: List[List[int]]
         :rtype: bool
         """
-        #Ax+By+C=0 equation of line
-
+        #Ax+By+C=0
 
         A, B = coordinates[0][1] - coordinates[1][1], coordinates[1][0] - coordinates[0][0]
 
-        C = -A*x1-B*y1
+        C = -A*coordinates[0][0] - B*coordinates[0][1]
 
         for i in coordinates:
             if A*i[0] + B*i[1] + C != 0:
